@@ -77,7 +77,7 @@ try:
     connection = pymysql.connect(
         host='localhost',
         user='root',
-        password='poonam16',
+        password='*****',
         db='shipt',
     )
     print_cur_inventory()
